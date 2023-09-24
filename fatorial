@@ -1,0 +1,16 @@
+
+// 32.	Receba um número inteiro. Calcule e mostre o seu fatorial
+Algoritmo "fatorial"
+
+var
+   N, c: inteiro
+inicio
+      escreval ("escrava um valor inteiro")
+      leia (N)
+      c<- n
+      enquanto c >1 faça
+           c <- c - 1
+           n <- n * c
+      fimenquanto
+         escreval ("Fatorial deste número é: ", n)
+fimAlgoritmo
